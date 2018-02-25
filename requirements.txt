@@ -1,0 +1,12 @@
+Django==2.0.2
+dj-database-url==0.4.2
+dj-static==0.0.6
+django-compressor==2.2
+django-patterns==0.0.3
+django-address==0.1.5
+djangorestframework==3.7.7
+gunicorn==19.7.1
+psycopg2==2.7.3.2
+six==1.11.0
+sqlparse==0.2.4
+static3==0.7.0

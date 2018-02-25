@@ -1,0 +1,17 @@
+{
+  "name": "HungryBot",
+  "version": "1.0.0",
+  "description": "A Personal/Corporate Meal Management Service",
+  "main": "index.html",
+  "author": "Khandker Mahmudur Rahman",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.6.9",
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "wheelnav": "^1.7.1"
+  },
+  "repository": "https://gitlab.com/mahmudur85/HungryBot.git"
+}
